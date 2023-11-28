@@ -1,31 +1,23 @@
+# Blazor Server-Side Pizza Ordering Application
+This repository contains a Blazor Server-Side application that allows users to order pizzas. The application is built using the Blazor framework, which enables the development of interactive web user interfaces using C# instead of JavaScript.
 
-# Contributing
+# Features
+#### Pizza Menu: 
+The application displays a menu of pizzas available for order.
+#### Order Placement: 
+Users can select their desired pizza, specify the quantity, and place an order.
+#### Order Tracking: 
+After placing an order, users can track the status of their order in real time.
+#### User-friendly UI: 
+The application has a clean and intuitive user interface, making it easy for users to navigate and place orders.
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+# Technologies Used
+#### Blazor Server-Side: 
+This model of Blazor runs the client-side C# code directly on the server. When an event occurs, the UI state is updated and a UI diff is sent to the browser over a SignalR connection.
+#### SignalR: 
+This library is used for handling real-time updates, which is essential for tracking the status of pizza orders.
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+This application serves as a great starting point for learning about Blazor and its capabilities in building interactive web applications using C#. Contributions to improve this project are welcome!
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-
-# Legal Notices
-
-Microsoft and any contributors grant you a license to the Microsoft documentation and other content
-in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
-see the [LICENSE](LICENSE) file, and grant you a license to any code in the repository under the [MIT License](https://opensource.org/licenses/MIT), see the
-[LICENSE-CODE](LICENSE-CODE) file.
-
-Microsoft, Windows, Microsoft Azure and/or other Microsoft products and services referenced in the documentation
-may be either trademarks or registered trademarks of Microsoft in the United States and/or other countries.
-The licenses for this project do not grant you rights to use any Microsoft names, logos, or trademarks.
-Microsoft's general trademark guidelines can be found at http://go.microsoft.com/fwlink/?LinkID=254653.
-
-Privacy information can be found at https://privacy.microsoft.com/en-us/
-
-Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
-or trademarks, whether by implication, estoppel or otherwise.
+#
+The working project snapshot is also shown below:
