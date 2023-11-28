@@ -21,3 +21,4 @@ This application serves as a great starting point for learning about Blazor and 
 
 #
 The working project snapshot is also shown below:
+![](https://github.com/jashnatfinthrive/BlazingPizza/blob/main/Blazzing%20Pizza%20Working%20site.gif)
