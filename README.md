@@ -19,5 +19,6 @@ This library is used for handling real-time updates, which is essential for trac
 
 This application serves as a great starting point for learning about Blazor and its capabilities in building interactive web applications using C#. Contributions to improve this project are welcome!
 
-# The working project snapshot is also shown below:
+# 
+The working project snapshot is also shown below:
 ![](https://github.com/jashnatfinthrive/BlazingPizza/blob/main/Blazzing%20Pizza%20Working%20site.gif)
